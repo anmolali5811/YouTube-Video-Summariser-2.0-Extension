@@ -1,4 +1,4 @@
-# YouTube-Video-Summariser
+# YouTube-Video-Summariser (Project-2)
 A chrome extension to summarise long YouTube videos by utilising YouTube's transcript feature.
 
 ## Requirements
